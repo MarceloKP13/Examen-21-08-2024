@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\obj\Debug\GestionSupermercado.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\obj\Debug\GestionSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\bin\Debug\GestionSupermercado.exe.config
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\bin\Debug\GestionSupermercado.exe
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\bin\Debug\GestionSupermercado.pdb
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\obj\Debug\GestionSupermercado.exe
+C:\Users\user\source\repos\GestionSupermercado\GestionSupermercado\obj\Debug\GestionSupermercado.pdb

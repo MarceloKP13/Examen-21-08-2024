@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|c:\\users\\user\\source\\repos\\gestionsupermercado\\gestionsupermercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|solutionrelative:gestionsupermercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|c:\\users\\user\\source\\repos\\gestionsupermercado\\gestionsupermercado\\gestionsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|solutionrelative:gestionsupermercado\\gestionsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|c:\\users\\user\\source\\repos\\gestionsupermercado\\gestionsupermercado\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|solutionrelative:gestionsupermercado\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|c:\\users\\user\\source\\repos\\gestionsupermercado\\gestionsupermercado\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775A912E-A189-40E5-9B6B-F525DFA59568}|GestionSupermercado\\GestionSupermercado.csproj|solutionrelative:gestionsupermercado\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionSupermercado\\Producto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\Producto.cs",
+              "RelativeToolTip": "GestionSupermercado\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:43:04.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\Product.cs",
+              "RelativeDocumentMoniker": "GestionSupermercado\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\Product.cs",
+              "RelativeToolTip": "GestionSupermercado\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:46:55.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionSupermercado.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\GestionSupermercado.cs",
+              "RelativeDocumentMoniker": "GestionSupermercado\\GestionSupermercado.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\GestionSupermercado.cs",
+              "RelativeToolTip": "GestionSupermercado\\GestionSupermercado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:54:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\Program.cs",
+              "RelativeDocumentMoniker": "GestionSupermercado\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GestionSupermercado\\GestionSupermercado\\Program.cs",
+              "RelativeToolTip": "GestionSupermercado\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:42:23.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
